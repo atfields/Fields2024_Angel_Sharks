@@ -4,4 +4,4 @@ Andrew T. Fields, William B. Driggers III, Christian M. Jones, David S. Portnoy.
 Genbank mtDNA: PP952512-PP952563
 NCBI SRA: SRR30648325-SRR30648393
 
-Script is best viewed in notepad++ (https://notepad-plus-plus.org/)
+Scripts are best viewed in notepad++ (https://notepad-plus-plus.org/)
